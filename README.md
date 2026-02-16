@@ -36,6 +36,6 @@ This project focuses on strengthening core Python fundamentals such as condition
 ## ▶️ How to Run  
 
 1. Make sure Python is installed on your system.  
-2. Save the file as `rock_paper_scissors.py`  
+2. Save the file as `rockpaper.py`  
 3. Run the program using:
 
