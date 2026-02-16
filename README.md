@@ -37,5 +37,25 @@ This project focuses on strengthening core Python fundamentals such as condition
 
 1. Make sure Python is installed on your system.  
 2. Save the file as `rockpaper.py`  
-3. Run the program using:
+3. Run the program
+4. Enter your choice (rock, paper, or scissors) and play against the computer.
+
+---
+
+## 🎓 Learning Purpose  
+This project was created to practice Python basics and improve logical thinking by building a simple interactive game.  
+It is ideal for beginners who are starting their programming journey.
+
+---
+
+## 🔮 Future Improvements  
+- Add score tracking system  
+- Add multiple rounds gameplay  
+- Add GUI using Tkinter  
+- Add sound effects and animations  
+- Convert into web-based game  
+
+---
+
+License: MIT © 2025 Sanya Suman
 
