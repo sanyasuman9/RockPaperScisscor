@@ -1,4 +1,4 @@
-# ✊✋✌ Rock Paper Scissors — Python Game  
+# ✊✋✌ Rock Paper Scissors — A Python Game  
 
 A simple and fun command-line Rock Paper Scissors game built using Python.  
 This project demonstrates basic Python programming concepts through an interactive game between the user and computer.
